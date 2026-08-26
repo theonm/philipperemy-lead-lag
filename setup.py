@@ -26,7 +26,7 @@ setup(
     include_package_data=True,
     install_requires=[
         'pandas>=0.22.0',
-        'numpy>=2.5.2',
+        'numpy>=2.2.6',
         'tqdm>=4.19.2',
         'matplotlib>=2.2.2',
     ]
